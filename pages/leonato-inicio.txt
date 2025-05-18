@@ -1,0 +1,14 @@
+// pages/leonato-inicio.tsx
+export default function MeuTypebot() {
+  return (
+    <iframe
+      src="https://typebot.co/inicio-6mwxdka"
+      style={{
+        width: '100vw',
+        height: '100vh',
+        border: 'none'
+      }}
+      allow="clipboard-write"
+    />
+  );
+}
