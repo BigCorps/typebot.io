@@ -1,0 +1,15 @@
+{
+  "name": "Leonato Pizzaria",
+  "description": "Descrição do seu fluxo",
+  "typebotId": "https://typebot.co/leonato-pizza-qtwztyb",
+  "version": "1.0",
+  "settings": {
+    "theme": {
+      "primaryColor": "#0042DA",
+      "font": "Open Sans"
+    },
+    "general": {
+      "rememberUser": true
+    }
+  }
+}
